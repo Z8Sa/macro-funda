@@ -1,6 +1,5 @@
 """
 macro_filters.py
-Modul filter makro fundamental profesional untuk XAUUSD
 
 Tema Ekonomi:
 1. Siklus Bisnis
