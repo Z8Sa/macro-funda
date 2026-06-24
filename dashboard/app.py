@@ -154,10 +154,10 @@ with st.sidebar:
     st.divider()
     
     # ============================================================
-    # 6 TEMA FILTER MAKRO
+    # FILTER MAKRO
     # ============================================================
     
-    st.subheader("📊 6 Tema Filter Makro")
+    st.subheader("📊 Filter Makro")
     
     if macro_filters:
         # Ambil data themes
