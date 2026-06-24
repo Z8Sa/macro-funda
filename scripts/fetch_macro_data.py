@@ -1,5 +1,5 @@
 """
-fetch_macro_data.py - VERSI LENGKAP
+fetch_macro_data.py
 Mengambil data makro dengan interval daily untuk analisis perubahan
 Sumber: FRED, Yahoo Finance, Twelve Data
 """
