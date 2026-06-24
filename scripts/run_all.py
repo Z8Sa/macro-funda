@@ -40,7 +40,9 @@ def main():
     
     print(f"\n{'='*60}")
     if success:
-        print("[OK] SEMUA PROSES SELESAI!")
+        print(f"[OK] SEMUA PROSES SELESAI!
+        
+        SCRIPT INI DIBUAT OLEH RAFI UNTUK FILTER MACRO EKONOMI KEBUTUHAN TRADING")
     else:
         print("[FAIL] PROSES GAGAL!")
     print(f"[TIME] Durasi: {duration:.2f} detik")
