@@ -309,7 +309,7 @@ if signal and 'components' in signal:
 # GRAFIK 6 TEMA FILTER MAKRO
 # ============================================================
 
-st.subheader("📊 6 Tema Filter Makro")
+st.subheader("📊 Filter Makro")
 
 if macro_filters:
     themes_data = macro_filters.get('themes', {})
