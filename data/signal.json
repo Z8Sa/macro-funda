@@ -7,7 +7,7 @@
     "fed_rate_ma": 3.63,
     "cpi": 333.98,
     "cpi_change": null,
-    "dxy": 101.51,
+    "dxy": 101.5,
     "dxy_change": -0.1,
     "treasury_10y": 4.5,
     "treasury_change": null,
@@ -20,10 +20,10 @@
     "DXY: Netral (-0.10%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-06-25T04:57:26.306332",
-  "gold_price": 3995.56,
+  "timestamp": "2026-06-25T09:33:33.768340",
+  "gold_price": 3995.08,
   "macro_filters": {
-    "timestamp": "2026-06-25T04:57:26.303757",
+    "timestamp": "2026-06-25T09:33:33.766690",
     "composite": {
       "score": 0.02499999999999998,
       "signal": "NEUTRAL",
@@ -33,7 +33,7 @@
       "Siklus Bisnis": {
         "score": 0.3333333333333333,
         "details": [
-          "Gold turun -3.87% -> Risk-On (Bullish)",
+          "Gold turun -3.88% -> Risk-On (Bullish)",
           "Unemployment stabil (4.3%)",
           "Yield netral (-1.10%)"
         ]
