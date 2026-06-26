@@ -7,9 +7,9 @@
     "fed_rate_ma": 3.63,
     "cpi": 333.98,
     "cpi_change": null,
-    "dxy": 101.33,
-    "dxy_change": -0.28,
-    "treasury_10y": 4.5,
+    "dxy": 101.41,
+    "dxy_change": -0.02,
+    "treasury_10y": 4.41,
     "treasury_change": null,
     "unemployment": 4.3,
     "sentiment_score": -1.0
@@ -17,25 +17,25 @@
   "components_detail": [
     "Fed Rate: Bullish",
     "CPI: Netral (0.00%)",
-    "DXY: Netral (-0.28%)",
+    "DXY: Netral (-0.02%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-06-25T15:43:25.096410",
-  "gold_price": 4027.88,
+  "timestamp": "2026-06-26T05:03:34.369089",
+  "gold_price": 4011.18,
   "macro_filters": {
-    "timestamp": "2026-06-25T15:43:25.094360",
+    "timestamp": "2026-06-26T05:03:34.366935",
     "composite": {
-      "score": 0.22499999999999998,
+      "score": 0.2833333333333333,
       "signal": "BULLISH",
-      "confidence": 22.5
+      "confidence": 28.33
     },
     "themes": {
       "Siklus Bisnis": {
-        "score": 0.3333333333333333,
+        "score": 0.0,
         "details": [
-          "Gold turun -3.09% -> Risk-On (Bullish)",
+          "Gold turun -3.50% -> Risk-On (Bullish)",
           "Unemployment stabil (4.3%)",
-          "Yield netral (-1.10%)"
+          "Yield turun -3.08% -> Ekonomi lemah (Bearish)"
         ]
       },
       "Kebijakan Moneter": {
@@ -52,10 +52,10 @@
         ]
       },
       "Sentimen Risiko": {
-        "score": 0.5,
+        "score": 1.0,
         "details": [
-          "Volatilitas rendah (ratio=0.54) -> Risk-On (Bullish)",
-          "Spread netral (Z=0.3)"
+          "Volatilitas rendah (ratio=0.65) -> Risk-On (Bullish)",
+          "Spread menyempit (Z=-1.0) -> Risk-On (Bullish)"
         ]
       },
       "Pasar Tenaga Kerja": {
@@ -65,9 +65,9 @@
         ]
       },
       "Kredit & Likuiditas": {
-        "score": 0.0,
+        "score": 0.5,
         "details": [
-          "Spread netral (0.87%)",
+          "Spread menyempit (Z=-1.0) -> Likuiditas baik (Bullish)",
           "M2 YoY netral (3.63%)"
         ]
       }
