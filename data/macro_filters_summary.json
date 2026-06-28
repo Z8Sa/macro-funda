@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-27T14:46:02.876412",
+  "timestamp": "2026-06-28T05:11:50.355951",
   "composite": {
-    "score": 0.2833333333333333,
+    "score": 0.21666666666666667,
     "signal": "BULLISH",
-    "confidence": 28.33
+    "confidence": 21.67
   },
   "themes": {
     "Siklus Bisnis": {
-      "score": 0.0,
+      "score": -0.3333333333333333,
       "details": [
-        "Gold turun -2.65% -> Risk-On (Bullish)",
+        "Gold netral (-0.72%)",
         "Unemployment stabil (4.3%)",
-        "Yield turun -3.30% -> Ekonomi lemah (Bearish)"
+        "Yield turun -3.51% -> Ekonomi lemah (Bearish)"
       ]
     },
     "Kebijakan Moneter": {
@@ -30,7 +30,7 @@
     "Sentimen Risiko": {
       "score": 1.0,
       "details": [
-        "Volatilitas rendah (ratio=0.67) -> Risk-On (Bullish)",
+        "Volatilitas rendah (ratio=0.63) -> Risk-On (Bullish)",
         "Spread menyempit (Z=-1.1) -> Risk-On (Bullish)"
       ]
     },
