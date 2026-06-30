@@ -7,8 +7,8 @@
     "fed_rate_ma": 3.63,
     "cpi": 333.98,
     "cpi_change": null,
-    "dxy": 101.33,
-    "dxy_change": 0.22,
+    "dxy": 101.36,
+    "dxy_change": 0.24,
     "treasury_10y": 4.38,
     "treasury_change": null,
     "unemployment": 4.3,
@@ -17,13 +17,13 @@
   "components_detail": [
     "Fed Rate: Bearish",
     "CPI: Netral (0.00%)",
-    "DXY: Netral (0.22%)",
+    "DXY: Netral (0.24%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-06-30T04:57:44.421253",
-  "gold_price": 3987.7,
+  "timestamp": "2026-06-30T10:27:36.412673",
+  "gold_price": 4026.16,
   "macro_filters": {
-    "timestamp": "2026-06-30T04:57:44.418815",
+    "timestamp": "2026-06-30T10:27:36.410256",
     "composite": {
       "score": 0.21666666666666667,
       "signal": "BULLISH",
@@ -33,7 +33,7 @@
       "Siklus Bisnis": {
         "score": -0.3333333333333333,
         "details": [
-          "Gold netral (-0.96%)",
+          "Gold netral (-0.01%)",
           "Unemployment stabil (4.3%)",
           "Yield turun -3.74% -> Ekonomi lemah (Bearish)"
         ]
@@ -48,7 +48,7 @@
       "Nilai Tukar & Perdagangan": {
         "score": 0.0,
         "details": [
-          "DXY netral (0.64%)"
+          "DXY netral (0.66%)"
         ]
       },
       "Sentimen Risiko": {
