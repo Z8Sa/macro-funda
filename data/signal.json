@@ -1,15 +1,15 @@
 {
   "signal": "SELL",
-  "confidence": 25.0,
-  "total_score": -1,
+  "confidence": 50.0,
+  "total_score": -2,
   "components": {
     "fed_rate": 3.63,
     "fed_rate_ma": 3.63,
     "cpi": 333.98,
     "cpi_change": null,
-    "dxy": 100.75,
-    "dxy_change": -0.63,
-    "treasury_10y": 4.44,
+    "dxy": 100.79,
+    "dxy_change": -0.07,
+    "treasury_10y": 4.48,
     "treasury_change": null,
     "unemployment": 4.2,
     "sentiment_score": -1.0
@@ -17,25 +17,25 @@
   "components_detail": [
     "Fed Rate: Bearish",
     "CPI: Netral (0.00%)",
-    "DXY: Bullish (melemah -0.63%)",
+    "DXY: Netral (-0.07%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-07-02T15:21:07.328336",
-  "gold_price": 4122.86,
+  "timestamp": "2026-07-03T04:36:16.682266",
+  "gold_price": 4175.99,
   "macro_filters": {
-    "timestamp": "2026-07-02T15:21:07.326202",
+    "timestamp": "2026-07-03T04:36:16.679958",
     "composite": {
-      "score": 0.21666666666666667,
-      "signal": "BULLISH",
-      "confidence": 21.67
+      "score": 0.09166666666666666,
+      "signal": "NEUTRAL",
+      "confidence": 0
     },
     "themes": {
       "Siklus Bisnis": {
         "score": -0.3333333333333333,
         "details": [
-          "Gold naik 1.03% -> Safe haven (Bearish)",
+          "Gold naik 2.33% -> Safe haven (Bearish)",
           "Unemployment stabil (4.2%)",
-          "Yield netral (-0.89%)"
+          "Yield netral (0.00%)"
         ]
       },
       "Kebijakan Moneter": {
@@ -48,14 +48,14 @@
       "Nilai Tukar & Perdagangan": {
         "score": 0.0,
         "details": [
-          "DXY netral (-0.06%)"
+          "DXY netral (-0.08%)"
         ]
       },
       "Sentimen Risiko": {
-        "score": 1.0,
+        "score": 0.5,
         "details": [
-          "Volatilitas rendah (ratio=0.61) -> Risk-On (Bullish)",
-          "Spread menyempit (Z=-0.6) -> Risk-On (Bullish)"
+          "Volatilitas rendah (ratio=0.63) -> Risk-On (Bullish)",
+          "Spread netral (Z=-0.0)"
         ]
       },
       "Pasar Tenaga Kerja": {
@@ -65,9 +65,9 @@
         ]
       },
       "Kredit & Likuiditas": {
-        "score": 0.5,
+        "score": 0.0,
         "details": [
-          "Spread menyempit (Z=-0.6) -> Likuiditas baik (Bullish)",
+          "Spread netral (0.85%)",
           "M2 YoY netral (3.63%)"
         ]
       }
