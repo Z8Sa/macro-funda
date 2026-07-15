@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T03:52:37.725917",
+  "timestamp": "2026-07-15T14:56:53.578393",
   "composite": {
     "score": -0.11666666666666667,
     "signal": "NEUTRAL",
@@ -9,7 +9,7 @@
     "Siklus Bisnis": {
       "score": 0.6666666666666666,
       "details": [
-        "Gold turun -2.09% -> Risk-On (Bullish)",
+        "Gold turun -1.52% -> Risk-On (Bullish)",
         "Unemployment stabil (4.2%)",
         "Yield naik 5.00% -> Ekonomi kuat (Bullish)"
       ]
@@ -24,7 +24,7 @@
     "Nilai Tukar & Perdagangan": {
       "score": 0.0,
       "details": [
-        "DXY netral (-0.23%)"
+        "DXY netral (-0.32%)"
       ]
     },
     "Sentimen Risiko": {
