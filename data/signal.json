@@ -7,7 +7,7 @@
     "fed_rate_ma": 3.63,
     "cpi": 332.57,
     "cpi_change": null,
-    "dxy": 101.46,
+    "dxy": 101.47,
     "dxy_change": null,
     "treasury_10y": 4.71,
     "treasury_change": null,
@@ -20,10 +20,10 @@
     "DXY: Netral (0.00%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-07-25T03:57:26.542680",
-  "gold_price": 4055.9,
+  "timestamp": "2026-07-25T14:39:56.311648",
+  "gold_price": 4055.99,
   "macro_filters": {
-    "timestamp": "2026-07-25T03:57:26.539689",
+    "timestamp": "2026-07-25T14:39:56.309520",
     "composite": {
       "score": -0.25,
       "signal": "BEARISH",
