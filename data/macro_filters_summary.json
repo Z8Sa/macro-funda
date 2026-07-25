@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T15:00:37.204243",
+  "timestamp": "2026-07-25T03:57:26.539689",
   "composite": {
     "score": -0.25,
     "signal": "BEARISH",
@@ -9,9 +9,9 @@
     "Siklus Bisnis": {
       "score": 0.0,
       "details": [
-        "Gold naik 1.35% -> Safe haven (Bearish)",
+        "Gold naik 1.19% -> Safe haven (Bearish)",
         "Unemployment stabil (4.2%)",
-        "Yield naik 4.01% -> Ekonomi kuat (Bullish)"
+        "Yield naik 4.90% -> Ekonomi kuat (Bullish)"
       ]
     },
     "Kebijakan Moneter": {
@@ -24,14 +24,14 @@
     "Nilai Tukar & Perdagangan": {
       "score": 0.0,
       "details": [
-        "DXY netral (0.47%)"
+        "DXY netral (0.45%)"
       ]
     },
     "Sentimen Risiko": {
       "score": -1.0,
       "details": [
-        "Volatilitas netral (ratio=0.76)",
-        "Spread sangat lebar (Z=2.3) -> Stres (Bearish)"
+        "Volatilitas netral (ratio=0.82)",
+        "Spread sangat lebar (Z=2.6) -> Stres (Bearish)"
       ]
     },
     "Pasar Tenaga Kerja": {
@@ -43,7 +43,7 @@
     "Kredit & Likuiditas": {
       "score": -1.0,
       "details": [
-        "Spread sangat lebar (Z=2.3) -> Stres (Bearish)",
+        "Spread sangat lebar (Z=2.6) -> Stres (Bearish)",
         "M2 YoY netral (3.48%)"
       ]
     }
