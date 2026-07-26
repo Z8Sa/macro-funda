@@ -7,7 +7,7 @@
     "fed_rate_ma": 3.63,
     "cpi": 332.57,
     "cpi_change": null,
-    "dxy": 101.43,
+    "dxy": 101.47,
     "dxy_change": null,
     "treasury_10y": 4.71,
     "treasury_change": null,
@@ -20,10 +20,10 @@
     "DXY: Netral (0.00%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-07-26T04:20:59.851844",
-  "gold_price": 4056.01,
+  "timestamp": "2026-07-26T14:39:55.461657",
+  "gold_price": 4056.0,
   "macro_filters": {
-    "timestamp": "2026-07-26T04:20:59.849385",
+    "timestamp": "2026-07-26T14:39:55.459249",
     "composite": {
       "score": -0.18333333333333335,
       "signal": "NEUTRAL",
@@ -48,7 +48,7 @@
       "Nilai Tukar & Perdagangan": {
         "score": 0.0,
         "details": [
-          "DXY netral (0.39%)"
+          "DXY netral (0.42%)"
         ]
       },
       "Sentimen Risiko": {
