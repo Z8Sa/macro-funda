@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T15:21:23.681652",
+  "timestamp": "2026-08-07T03:43:28.272494",
   "composite": {
     "score": -0.11666666666666667,
     "signal": "NEUTRAL",
@@ -24,13 +24,13 @@
     "Nilai Tukar & Perdagangan": {
       "score": 0.0,
       "details": [
-        "DXY netral (-0.79%)"
+        "DXY netral (-0.66%)"
       ]
     },
     "Sentimen Risiko": {
       "score": 0.0,
       "details": [
-        "Volatilitas rendah (ratio=0.58) -> Risk-On (Bullish)",
+        "Volatilitas rendah (ratio=0.52) -> Risk-On (Bullish)",
         "Spread melebar (Z=0.8) -> Risk-Off (Bearish)"
       ]
     },
