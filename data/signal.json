@@ -12,18 +12,18 @@
     "treasury_10y": 4.69,
     "treasury_change": null,
     "unemployment": 4.1,
-    "sentiment_score": -0.91
+    "sentiment_score": -0.76
   },
   "components_detail": [
     "Fed Rate: Bearish",
     "CPI: Netral (0.00%)",
     "DXY: Netral (0.00%)",
-    "Sentimen: Bearish (-0.91)"
+    "Sentimen: Bearish (-0.76)"
   ],
-  "timestamp": "2026-08-08T02:50:21.943613",
+  "timestamp": "2026-08-08T13:49:45.529426",
   "gold_price": 4342.36,
   "macro_filters": {
-    "timestamp": "2026-08-08T02:50:21.941402",
+    "timestamp": "2026-08-08T13:49:45.526784",
     "composite": {
       "score": -0.05,
       "signal": "NEUTRAL",
