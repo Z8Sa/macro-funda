@@ -20,10 +20,10 @@
     "DXY: Netral (0.00%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-08-09T02:57:57.663914",
-  "gold_price": 4342.23,
+  "timestamp": "2026-08-09T13:52:28.936859",
+  "gold_price": 4342.33,
   "macro_filters": {
-    "timestamp": "2026-08-09T02:57:57.661345",
+    "timestamp": "2026-08-09T13:52:28.934436",
     "composite": {
       "score": -0.11666666666666667,
       "signal": "NEUTRAL",
