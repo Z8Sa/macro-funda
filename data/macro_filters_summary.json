@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T03:06:56.600105",
+  "timestamp": "2026-08-10T14:21:52.218705",
   "composite": {
     "score": -0.11666666666666667,
     "signal": "NEUTRAL",
@@ -9,7 +9,7 @@
     "Siklus Bisnis": {
       "score": -0.3333333333333333,
       "details": [
-        "Gold naik 1.69% -> Safe haven (Bearish)",
+        "Gold naik 2.07% -> Safe haven (Bearish)",
         "Unemployment stabil (4.1%)",
         "Yield netral (1.30%)"
       ]
@@ -24,7 +24,7 @@
     "Nilai Tukar & Perdagangan": {
       "score": 0.0,
       "details": [
-        "DXY netral (-0.71%)"
+        "DXY netral (-0.65%)"
       ]
     },
     "Sentimen Risiko": {
