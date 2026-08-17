@@ -7,7 +7,7 @@
     "fed_rate_ma": 3.63,
     "cpi": 332.81,
     "cpi_change": null,
-    "dxy": 99.67,
+    "dxy": 99.51,
     "dxy_change": null,
     "treasury_10y": 4.63,
     "treasury_change": null,
@@ -20,12 +20,12 @@
     "DXY: Netral (0.00%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-08-16T02:15:43.726809",
-  "gold_price": 4375.7,
+  "timestamp": "2026-08-17T02:14:10.843547",
+  "gold_price": 4393.18,
   "macro_filters": {
-    "timestamp": "2026-08-16T02:15:43.723955",
+    "timestamp": "2026-08-17T02:14:10.841388",
     "composite": {
-      "score": -0.05,
+      "score": 0.075,
       "signal": "NEUTRAL",
       "confidence": 0
     },
@@ -33,9 +33,9 @@
       "Siklus Bisnis": {
         "score": 0.0,
         "details": [
-          "Gold netral (0.18%)",
+          "Gold netral (-0.36%)",
           "Unemployment stabil (4.1%)",
-          "Yield netral (-0.43%)"
+          "Yield netral (0.43%)"
         ]
       },
       "Kebijakan Moneter": {
@@ -48,14 +48,14 @@
       "Nilai Tukar & Perdagangan": {
         "score": 0.0,
         "details": [
-          "DXY netral (-0.26%)"
+          "DXY netral (-0.34%)"
         ]
       },
       "Sentimen Risiko": {
-        "score": 0.0,
+        "score": 0.5,
         "details": [
-          "Volatilitas rendah (ratio=0.43) -> Risk-On (Bullish)",
-          "Spread melebar (Z=0.5) -> Risk-Off (Bearish)"
+          "Volatilitas rendah (ratio=0.42) -> Risk-On (Bullish)",
+          "Spread netral (Z=0.5)"
         ]
       },
       "Pasar Tenaga Kerja": {
@@ -65,9 +65,9 @@
         ]
       },
       "Kredit & Likuiditas": {
-        "score": -0.5,
+        "score": 0.0,
         "details": [
-          "Spread melebar (Z=0.5) -> Risk-Off (Bearish)",
+          "Spread netral (1.00%)",
           "M2 YoY netral (3.58%)"
         ]
       }
