@@ -7,9 +7,9 @@
     "fed_rate_ma": 3.63,
     "cpi": 332.81,
     "cpi_change": null,
-    "dxy": 99.58,
-    "dxy_change": -0.09,
-    "treasury_10y": 4.68,
+    "dxy": 99.63,
+    "dxy_change": null,
+    "treasury_10y": 4.72,
     "treasury_change": null,
     "unemployment": 4.1,
     "sentiment_score": -1.0
@@ -17,25 +17,25 @@
   "components_detail": [
     "Fed Rate: Bearish",
     "CPI: Netral (0.00%)",
-    "DXY: Netral (-0.09%)",
+    "DXY: Netral (0.00%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-08-18T13:47:17.712045",
-  "gold_price": 4402.0,
+  "timestamp": "2026-08-19T02:12:14.016203",
+  "gold_price": 4355.43,
   "macro_filters": {
-    "timestamp": "2026-08-18T13:47:17.709888",
+    "timestamp": "2026-08-19T02:12:14.013975",
     "composite": {
-      "score": -0.11666666666666667,
+      "score": -0.05,
       "signal": "NEUTRAL",
       "confidence": 0
     },
     "themes": {
       "Siklus Bisnis": {
-        "score": -0.3333333333333333,
+        "score": 0.0,
         "details": [
-          "Gold naik 1.17% -> Safe haven (Bearish)",
+          "Gold netral (-0.48%)",
           "Unemployment stabil (4.1%)",
-          "Yield netral (0.21%)"
+          "Yield netral (0.85%)"
         ]
       },
       "Kebijakan Moneter": {
@@ -48,14 +48,14 @@
       "Nilai Tukar & Perdagangan": {
         "score": 0.0,
         "details": [
-          "DXY netral (-0.23%)"
+          "DXY netral (-0.13%)"
         ]
       },
       "Sentimen Risiko": {
         "score": 0.0,
         "details": [
-          "Volatilitas rendah (ratio=0.36) -> Risk-On (Bullish)",
-          "Spread melebar (Z=0.9) -> Risk-Off (Bearish)"
+          "Volatilitas rendah (ratio=0.37) -> Risk-On (Bullish)",
+          "Spread melebar (Z=1.2) -> Risk-Off (Bearish)"
         ]
       },
       "Pasar Tenaga Kerja": {
@@ -67,7 +67,7 @@
       "Kredit & Likuiditas": {
         "score": -0.5,
         "details": [
-          "Spread melebar (Z=0.9) -> Risk-Off (Bearish)",
+          "Spread melebar (Z=1.2) -> Risk-Off (Bearish)",
           "M2 YoY netral (3.58%)"
         ]
       }
