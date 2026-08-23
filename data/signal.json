@@ -20,10 +20,10 @@
     "DXY: Netral (0.00%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-08-22T13:35:27.641483",
-  "gold_price": 4608.26,
+  "timestamp": "2026-08-23T02:19:00.720961",
+  "gold_price": 4608.22,
   "macro_filters": {
-    "timestamp": "2026-08-22T13:35:27.638862",
+    "timestamp": "2026-08-23T02:19:00.718308",
     "composite": {
       "score": -0.11666666666666667,
       "signal": "NEUTRAL",
@@ -33,9 +33,9 @@
       "Siklus Bisnis": {
         "score": -0.3333333333333333,
         "details": [
-          "Gold naik 4.34% -> Safe haven (Bearish)",
+          "Gold naik 6.29% -> Safe haven (Bearish)",
           "Unemployment stabil (4.1%)",
-          "Yield netral (-1.26%)"
+          "Yield netral (-0.21%)"
         ]
       },
       "Kebijakan Moneter": {
@@ -48,7 +48,7 @@
       "Nilai Tukar & Perdagangan": {
         "score": 0.0,
         "details": [
-          "DXY netral (-0.78%)"
+          "DXY netral (-0.72%)"
         ]
       },
       "Sentimen Risiko": {
