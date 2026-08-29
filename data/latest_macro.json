@@ -6,8 +6,8 @@
   "treasury_10y": 4.67,
   "money_supply": 23218.0,
   "dxy_fred": 118.0628,
-  "dxy": 99.677001953125,
-  "xauusd": 4458.89169,
+  "dxy": 99.16000366210938,
+  "xauusd": 4458.83747,
   "cpi_change_1d": 0.0,
   "cpi_change_5d": 0.0,
   "cpi_change_20d": 0.0,
@@ -15,9 +15,9 @@
   "treasury_10y_change_5d": -0.638297872340432,
   "treasury_10y_change_20d": 0.4301075268817067,
   "dxy_change_1d": 0.0,
-  "dxy_change_5d": 0.6838403566919116,
-  "dxy_change_20d": 0.07731273110804793,
-  "xauusd_change_1d": 0.0550008451700279,
-  "xauusd_change_5d": -4.154553498418833,
-  "xauusd_change_20d": 2.6877039509612954
+  "dxy_change_5d": 0.16161986071654422,
+  "dxy_change_20d": -0.4417618662173384,
+  "xauusd_change_1d": 0.053784179118698816,
+  "xauusd_change_5d": -4.155718976405431,
+  "xauusd_change_20d": 2.686455271312771
 }
