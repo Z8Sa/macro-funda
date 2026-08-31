@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31T06:24:47.242177",
+  "timestamp": "2026-08-31T19:28:00.371345",
   "composite": {
     "score": 0.14166666666666666,
     "signal": "NEUTRAL",
@@ -9,7 +9,7 @@
     "Siklus Bisnis": {
       "score": 0.3333333333333333,
       "details": [
-        "Gold turun -3.43% -> Risk-On (Bullish)",
+        "Gold turun -3.33% -> Risk-On (Bullish)",
         "Unemployment stabil (4.1%)",
         "Yield netral (-0.64%)"
       ]
@@ -24,7 +24,7 @@
     "Nilai Tukar & Perdagangan": {
       "score": 0.0,
       "details": [
-        "DXY netral (0.25%)"
+        "DXY netral (0.06%)"
       ]
     },
     "Sentimen Risiko": {
