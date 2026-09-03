@@ -7,9 +7,9 @@
     "fed_rate_ma": 3.63,
     "cpi": 332.81,
     "cpi_change": null,
-    "dxy": 99.54,
+    "dxy": 99.43,
     "dxy_change": -0.13,
-    "treasury_10y": 4.75,
+    "treasury_10y": 4.79,
     "treasury_change": null,
     "unemployment": 4.1,
     "sentiment_score": -1.0
@@ -20,22 +20,22 @@
     "DXY: Netral (-0.13%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-09-02T17:04:37.939448",
-  "gold_price": 4368.87,
+  "timestamp": "2026-09-03T05:21:10.529066",
+  "gold_price": 4430.3,
   "macro_filters": {
-    "timestamp": "2026-09-02T17:04:37.935684",
+    "timestamp": "2026-09-03T05:21:10.527743",
     "composite": {
-      "score": 0.08333333333333333,
+      "score": -0.10833333333333334,
       "signal": "NEUTRAL",
       "confidence": 0
     },
     "themes": {
       "Siklus Bisnis": {
-        "score": 0.6666666666666666,
+        "score": 0.3333333333333333,
         "details": [
-          "Gold turun -1.97% -> Risk-On (Bullish)",
+          "Gold netral (-0.64%)",
           "Unemployment stabil (4.1%)",
-          "Yield naik 2.59% -> Ekonomi kuat (Bullish)"
+          "Yield naik 2.35% -> Ekonomi kuat (Bullish)"
         ]
       },
       "Kebijakan Moneter": {
@@ -48,14 +48,14 @@
       "Nilai Tukar & Perdagangan": {
         "score": 0.0,
         "details": [
-          "DXY netral (0.22%)"
+          "DXY netral (0.12%)"
         ]
       },
       "Sentimen Risiko": {
-        "score": 0.0,
+        "score": -0.5,
         "details": [
-          "Volatilitas rendah (ratio=0.50) -> Risk-On (Bullish)",
-          "Spread melebar (Z=1.3) -> Risk-Off (Bearish)"
+          "Volatilitas rendah (ratio=0.62) -> Risk-On (Bullish)",
+          "Spread sangat lebar (Z=1.8) -> Stres (Bearish)"
         ]
       },
       "Pasar Tenaga Kerja": {
@@ -65,9 +65,9 @@
         ]
       },
       "Kredit & Likuiditas": {
-        "score": -0.5,
+        "score": -1.0,
         "details": [
-          "Spread melebar (Z=1.3) -> Risk-Off (Bearish)",
+          "Spread sangat lebar (Z=1.8) -> Stres (Bearish)",
           "M2 YoY netral (3.86%)"
         ]
       }
