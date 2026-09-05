@@ -7,7 +7,7 @@
   "money_supply": 23218.0,
   "dxy_fred": 118.7479,
   "dxy": 99.16000366210938,
-  "xauusd": 4429.01083,
+  "xauusd": 4429.0553,
   "cpi_change_1d": 0.0,
   "cpi_change_5d": 0.0,
   "cpi_change_20d": 0.0,
@@ -17,7 +17,7 @@
   "dxy_change_1d": 0.0,
   "dxy_change_5d": -0.27154444557750956,
   "dxy_change_20d": -0.5116830703372433,
-  "xauusd_change_1d": -0.023603310862541083,
-  "xauusd_change_5d": -0.4448485972601057,
-  "xauusd_change_20d": 1.2218808690806604
+  "xauusd_change_1d": -0.02259948618669183,
+  "xauusd_change_5d": -0.4438490021467123,
+  "xauusd_change_20d": 1.2228971991857351
 }
