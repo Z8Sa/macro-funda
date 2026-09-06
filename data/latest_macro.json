@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "fed_funds_rate": 3.63,
   "cpi": 332.813,
   "unemployment": 4.1,
@@ -7,17 +7,17 @@
   "money_supply": 23218.0,
   "dxy_fred": 118.7479,
   "dxy": 99.16000366210938,
-  "xauusd": 4429.0553,
+  "xauusd": 4429.02707,
   "cpi_change_1d": 0.0,
   "cpi_change_5d": 0.0,
   "cpi_change_20d": 0.0,
   "treasury_10y_change_1d": 0.0,
-  "treasury_10y_change_5d": 0.42105263157894424,
-  "treasury_10y_change_20d": 1.9230769230769162,
+  "treasury_10y_change_5d": -0.41753653444677186,
+  "treasury_10y_change_20d": 1.0593220338982912,
   "dxy_change_1d": 0.0,
-  "dxy_change_5d": -0.27154444557750956,
-  "dxy_change_20d": -0.5116830703372433,
-  "xauusd_change_1d": -0.02259948618669183,
-  "xauusd_change_5d": -0.4438490021467123,
-  "xauusd_change_20d": 1.2228971991857351
+  "dxy_change_5d": -0.5116830703372433,
+  "dxy_change_20d": -0.4817299583292911,
+  "xauusd_change_1d": 2.9351819641476595e-06,
+  "xauusd_change_5d": 2.3206223835484208,
+  "xauusd_change_20d": 0.28075314709885557
 }
