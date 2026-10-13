@@ -1,14 +1,14 @@
 {
   "signal": "SELL",
-  "confidence": 50.0,
-  "total_score": -2,
+  "confidence": 25.0,
+  "total_score": -1,
   "components": {
     "fed_rate": 3.75,
     "fed_rate_ma": 3.72,
     "cpi": 334.13,
     "cpi_change": null,
-    "dxy": 102.34,
-    "dxy_change": -0.23,
+    "dxy": 102.19,
+    "dxy_change": -0.38,
     "treasury_10y": 5.22,
     "treasury_change": null,
     "unemployment": 4.2,
@@ -17,23 +17,23 @@
   "components_detail": [
     "Fed Rate: Bearish",
     "CPI: Netral (0.00%)",
-    "DXY: Netral (-0.23%)",
+    "DXY: Bullish (melemah -0.38%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-10-13T07:13:16.920433",
-  "gold_price": 4189.12,
+  "timestamp": "2026-10-13T19:48:02.868342",
+  "gold_price": 4163.37,
   "macro_filters": {
-    "timestamp": "2026-10-13T07:13:16.918445",
+    "timestamp": "2026-10-13T19:48:02.865919",
     "composite": {
-      "score": -0.05,
+      "score": 0.016666666666666663,
       "signal": "NEUTRAL",
       "confidence": 0
     },
     "themes": {
       "Siklus Bisnis": {
-        "score": 0.0,
+        "score": 0.3333333333333333,
         "details": [
-          "Gold naik 1.38% -> Safe haven (Bearish)",
+          "Gold netral (0.76%)",
           "Unemployment stabil (4.2%)",
           "Yield naik 2.15% -> Ekonomi kuat (Bullish)"
         ]
@@ -48,7 +48,7 @@
       "Nilai Tukar & Perdagangan": {
         "score": 0.0,
         "details": [
-          "DXY netral (0.53%)"
+          "DXY netral (0.38%)"
         ]
       },
       "Sentimen Risiko": {
