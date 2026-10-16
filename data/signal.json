@@ -1,15 +1,15 @@
 {
   "signal": "SELL",
-  "confidence": 25.0,
-  "total_score": -1,
+  "confidence": 50.0,
+  "total_score": -2,
   "components": {
     "fed_rate": 3.75,
     "fed_rate_ma": 3.72,
     "cpi": 336.3,
     "cpi_change": null,
-    "dxy": 102.08,
-    "dxy_change": -0.46,
-    "treasury_10y": 5.21,
+    "dxy": 101.9,
+    "dxy_change": -0.09,
+    "treasury_10y": 5.19,
     "treasury_change": null,
     "unemployment": 4.2,
     "sentiment_score": -1.0
@@ -17,25 +17,25 @@
   "components_detail": [
     "Fed Rate: Bearish",
     "CPI: Netral (0.00%)",
-    "DXY: Bullish (melemah -0.46%)",
+    "DXY: Netral (-0.09%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-10-15T17:41:21.195117",
-  "gold_price": 4151.99,
+  "timestamp": "2026-10-16T05:16:59.089207",
+  "gold_price": 4172.09,
   "macro_filters": {
-    "timestamp": "2026-10-15T17:41:21.192248",
+    "timestamp": "2026-10-16T05:16:59.086390",
     "composite": {
-      "score": 0.016666666666666663,
+      "score": -0.05,
       "signal": "NEUTRAL",
       "confidence": 0
     },
     "themes": {
       "Siklus Bisnis": {
-        "score": 0.3333333333333333,
+        "score": 0.0,
         "details": [
-          "Gold turun -1.04% -> Risk-On (Bullish)",
+          "Gold netral (-0.57%)",
           "Unemployment stabil (4.2%)",
-          "Yield netral (0.77%)"
+          "Yield netral (0.39%)"
         ]
       },
       "Kebijakan Moneter": {
@@ -48,14 +48,14 @@
       "Nilai Tukar & Perdagangan": {
         "score": 0.0,
         "details": [
-          "DXY netral (0.16%)"
+          "DXY netral (-0.05%)"
         ]
       },
       "Sentimen Risiko": {
         "score": 0.0,
         "details": [
           "Volatilitas rendah (ratio=0.17) -> Risk-On (Bullish)",
-          "Spread melebar (Z=1.0) -> Risk-Off (Bearish)"
+          "Spread melebar (Z=0.9) -> Risk-Off (Bearish)"
         ]
       },
       "Pasar Tenaga Kerja": {
@@ -67,7 +67,7 @@
       "Kredit & Likuiditas": {
         "score": -0.5,
         "details": [
-          "Spread melebar (Z=1.0) -> Risk-Off (Bearish)",
+          "Spread melebar (Z=0.9) -> Risk-Off (Bearish)",
           "M2 YoY netral (3.29%)"
         ]
       }
