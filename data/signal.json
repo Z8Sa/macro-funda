@@ -7,9 +7,9 @@
     "fed_rate_ma": 3.72,
     "cpi": 336.3,
     "cpi_change": null,
-    "dxy": 101.93,
-    "dxy_change": -0.06,
-    "treasury_10y": 5.19,
+    "dxy": 101.84,
+    "dxy_change": null,
+    "treasury_10y": 5.1,
     "treasury_change": null,
     "unemployment": 4.2,
     "sentiment_score": -1.0
@@ -17,15 +17,15 @@
   "components_detail": [
     "Fed Rate: Bearish",
     "CPI: Netral (0.00%)",
-    "DXY: Netral (-0.06%)",
+    "DXY: Netral (0.00%)",
     "Sentimen: Bearish (-1.00)"
   ],
-  "timestamp": "2026-10-16T17:15:29.666274",
-  "gold_price": 4158.42,
+  "timestamp": "2026-10-17T05:11:41.254982",
+  "gold_price": 4164.76,
   "macro_filters": {
-    "timestamp": "2026-10-16T17:15:29.664585",
+    "timestamp": "2026-10-17T05:11:41.252227",
     "composite": {
-      "score": -0.05,
+      "score": 0.075,
       "signal": "NEUTRAL",
       "confidence": 0
     },
@@ -33,9 +33,9 @@
       "Siklus Bisnis": {
         "score": 0.0,
         "details": [
-          "Gold netral (-0.89%)",
+          "Gold netral (-0.17%)",
           "Unemployment stabil (4.2%)",
-          "Yield netral (0.39%)"
+          "Yield netral (-1.35%)"
         ]
       },
       "Kebijakan Moneter": {
@@ -48,14 +48,14 @@
       "Nilai Tukar & Perdagangan": {
         "score": 0.0,
         "details": [
-          "DXY netral (-0.02%)"
+          "DXY netral (-0.15%)"
         ]
       },
       "Sentimen Risiko": {
-        "score": 0.0,
+        "score": 0.5,
         "details": [
-          "Volatilitas rendah (ratio=0.17) -> Risk-On (Bullish)",
-          "Spread melebar (Z=0.9) -> Risk-Off (Bearish)"
+          "Volatilitas rendah (ratio=0.29) -> Risk-On (Bullish)",
+          "Spread netral (Z=0.4)"
         ]
       },
       "Pasar Tenaga Kerja": {
@@ -65,9 +65,9 @@
         ]
       },
       "Kredit & Likuiditas": {
-        "score": -0.5,
+        "score": 0.0,
         "details": [
-          "Spread melebar (Z=0.9) -> Risk-Off (Bearish)",
+          "Spread netral (1.35%)",
           "M2 YoY netral (3.29%)"
         ]
       }
