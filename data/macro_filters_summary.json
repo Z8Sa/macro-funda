@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-11-03T07:23:20.304406",
+  "timestamp": "2026-11-05T07:33:25.557082",
   "composite": {
-    "score": 0.2,
-    "signal": "BULLISH",
-    "confidence": 20.0
+    "score": 0.06666666666666667,
+    "signal": "NEUTRAL",
+    "confidence": 0
   },
   "themes": {
     "Siklus Bisnis": {
-      "score": 0.0,
+      "score": -0.6666666666666666,
       "details": [
-        "Gold turun -2.77% -> Risk-On (Bullish)",
+        "Gold naik 6.31% -> Safe haven (Bearish)",
         "Unemployment stabil (4.2%)",
-        "Yield turun -4.82% -> Ekonomi lemah (Bearish)"
+        "Yield turun -2.75% -> Ekonomi lemah (Bearish)"
       ]
     },
     "Kebijakan Moneter": {
@@ -24,14 +24,14 @@
     "Nilai Tukar & Perdagangan": {
       "score": 0.0,
       "details": [
-        "DXY netral (-0.15%)"
+        "DXY netral (-0.49%)"
       ]
     },
     "Sentimen Risiko": {
       "score": 1.0,
       "details": [
-        "Volatilitas rendah (ratio=0.49) -> Risk-On (Bullish)",
-        "Spread menyempit (Z=-1.4) -> Risk-On (Bullish)"
+        "Volatilitas rendah (ratio=0.52) -> Risk-On (Bullish)",
+        "Spread menyempit (Z=-1.3) -> Risk-On (Bullish)"
       ]
     },
     "Pasar Tenaga Kerja": {
@@ -43,7 +43,7 @@
     "Kredit & Likuiditas": {
       "score": 0.5,
       "details": [
-        "Spread menyempit (Z=-1.4) -> Likuiditas baik (Bullish)",
+        "Spread menyempit (Z=-1.3) -> Likuiditas baik (Bullish)",
         "M2 YoY netral (3.73%)"
       ]
     }
