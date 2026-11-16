@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T19:17:38.761585",
+  "timestamp": "2026-11-16T07:28:11.330154",
   "composite": {
     "score": 0.008333333333333318,
     "signal": "NEUTRAL",
@@ -9,9 +9,9 @@
     "Siklus Bisnis": {
       "score": 0.6666666666666666,
       "details": [
-        "Gold turun -3.71% -> Risk-On (Bullish)",
+        "Gold turun -3.38% -> Risk-On (Bullish)",
         "Unemployment stabil (4.1%)",
-        "Yield naik 2.00% -> Ekonomi kuat (Bullish)"
+        "Yield naik 2.20% -> Ekonomi kuat (Bullish)"
       ]
     },
     "Kebijakan Moneter": {
@@ -24,13 +24,13 @@
     "Nilai Tukar & Perdagangan": {
       "score": -1.0,
       "details": [
-        "DXY naik 1.09% -> Dolar menguat (Bearish)"
+        "DXY naik 1.04% -> Dolar menguat (Bearish)"
       ]
     },
     "Sentimen Risiko": {
       "score": 0.5,
       "details": [
-        "Volatilitas rendah (ratio=0.64) -> Risk-On (Bullish)",
+        "Volatilitas rendah (ratio=0.69) -> Risk-On (Bullish)",
         "Spread netral (Z=-0.1)"
       ]
     },
