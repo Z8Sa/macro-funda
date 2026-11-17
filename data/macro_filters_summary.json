@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-16T22:47:54.363844",
+  "timestamp": "2026-11-17T08:40:49.548405",
   "composite": {
     "score": -0.2833333333333333,
     "signal": "BEARISH",
@@ -9,7 +9,7 @@
     "Siklus Bisnis": {
       "score": 0.0,
       "details": [
-        "Gold netral (-0.70%)",
+        "Gold netral (-0.48%)",
         "Unemployment stabil (4.1%)",
         "Yield netral (1.98%)"
       ]
@@ -24,7 +24,7 @@
     "Nilai Tukar & Perdagangan": {
       "score": -1.0,
       "details": [
-        "DXY naik 1.13% -> Dolar menguat (Bearish)"
+        "DXY naik 1.06% -> Dolar menguat (Bearish)"
       ]
     },
     "Sentimen Risiko": {
