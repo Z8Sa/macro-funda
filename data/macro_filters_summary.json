@@ -1,37 +1,37 @@
 {
-  "timestamp": "2026-11-17T08:40:49.548405",
+  "timestamp": "2026-11-17T21:37:26.255462",
   "composite": {
-    "score": -0.2833333333333333,
-    "signal": "BEARISH",
-    "confidence": 28.33
+    "score": -0.13333333333333336,
+    "signal": "NEUTRAL",
+    "confidence": 0
   },
   "themes": {
     "Siklus Bisnis": {
-      "score": 0.0,
+      "score": 0.3333333333333333,
       "details": [
-        "Gold netral (-0.48%)",
+        "Gold netral (-0.51%)",
         "Unemployment stabil (4.1%)",
-        "Yield netral (1.98%)"
+        "Yield naik 2.81% -> Ekonomi kuat (Bullish)"
       ]
     },
     "Kebijakan Moneter": {
-      "score": -0.3333333333333333,
+      "score": 0.0,
       "details": [
         "Fed Rate netral YoY (0.24%)",
-        "Treasury yield naik -> Hawkish (Bearish)"
+        "Treasury yield netral"
       ]
     },
     "Nilai Tukar & Perdagangan": {
       "score": -1.0,
       "details": [
-        "DXY naik 1.06% -> Dolar menguat (Bearish)"
+        "DXY naik 1.00% -> Dolar menguat (Bearish)"
       ]
     },
     "Sentimen Risiko": {
       "score": 0.0,
       "details": [
-        "Volatilitas netral (ratio=0.84)",
-        "Spread netral (Z=0.2)"
+        "Volatilitas netral (ratio=0.85)",
+        "Spread netral (Z=0.0)"
       ]
     },
     "Pasar Tenaga Kerja": {
@@ -43,7 +43,7 @@
     "Kredit & Likuiditas": {
       "score": 0.0,
       "details": [
-        "Spread netral (1.27%)",
+        "Spread netral (1.24%)",
         "M2 YoY netral (3.54%)"
       ]
     }
